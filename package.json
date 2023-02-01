@@ -1,6 +1,6 @@
 {
 	"name": "sft-logos",
-	"version": "3.0.2",
+	"version": "1.0.0",
 	"description": "Somerset NHSFT's Logos",
 	"private": true,
 	"main": "src/app.js",
