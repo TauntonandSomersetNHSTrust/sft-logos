@@ -9,7 +9,7 @@
 
 > Somerset NHSFT's Logos
 
-## Intro
+## Overview
 
 This repo contains [Somerset NHSFT](https://www.somersetft.nhs.uk/)'s logos, for use in applications and websites.
 
