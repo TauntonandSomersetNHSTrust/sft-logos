@@ -1,7 +1,7 @@
 {
 	"name": "sft-logos",
 	"version": "1.0.0",
-	"description": "Somerset NHSFT's Logos",
+	"description": "Somerset NHSFT's logos",
 	"private": true,
 	"main": "src/app.js",
 	"repository": "git+https://github.com/Fdawgs/sft-logos.git",
