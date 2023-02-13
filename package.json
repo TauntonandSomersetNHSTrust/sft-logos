@@ -1,7 +1,7 @@
 {
 	"name": "sft-logos",
 	"version": "1.0.0",
-	"description": "Somerset NHSFT's Logos",
+	"description": "Somerset NHSFT's logos",
 	"private": true,
 	"main": "src/app.js",
 	"repository": "git+https://github.com/Fdawgs/sft-logos.git",
@@ -26,9 +26,9 @@
 		]
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^17.1.2",
-		"@commitlint/config-conventional": "^17.1.0",
-		"husky": "^8.0.1",
-		"prettier": "^2.7.1"
+		"@commitlint/cli": "^17.4.3",
+		"@commitlint/config-conventional": "^17.4.3",
+		"husky": "^8.0.3",
+		"prettier": "^2.8.4"
 	}
 }
