@@ -1,10 +1,10 @@
 <a href="https://www.somersetft.nhs.uk/">
-	<img alttext="Somerset NHSFT logo" src="https://github.com/Fdawgs/sft-logos/raw/HEAD/images/sft-nhsft-logo-right-aligned-transparent-background.png" width="480" />
+	<img alttext="Somerset NHSFT logo" src="https://github.com/TauntonandSomersetNHSTrust/sft-logos/raw/HEAD/images/sft-nhsft-logo-right-aligned-transparent-background.png" width="480" />
 </a>
 
 # Somerset NHS Foundation Trust - Logos
 
-[![GitHub Release](https://img.shields.io/github/release/Fdawgs/sft-logos.svg)](https://github.com/Fdawgs/sft-logos/releases/latest/)
+[![GitHub Release](https://img.shields.io/github/release/TauntonandSomersetNHSTrust/sft-logos.svg)](https://github.com/TauntonandSomersetNHSTrust/sft-logos/releases/latest/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
 > Somerset NHSFT's logos

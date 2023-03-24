@@ -4,13 +4,13 @@
 	"description": "Somerset NHSFT's logos",
 	"private": true,
 	"main": "src/app.js",
-	"repository": "git+https://github.com/Fdawgs/sft-logos.git",
-	"homepage": "https://github.com/Fdawgs/sft-logos",
+	"repository": "git+https://github.com/TauntonandSomersetNHSTrust/sft-logos.git",
+	"homepage": "https://github.com/TauntonandSomersetNHSTrust/sft-logos",
 	"bugs": {
-		"url": "https://github.com/Fdawgs/sft-logos/issues"
+		"url": "https://github.com/TauntonandSomersetNHSTrust/sft-logos/issues"
 	},
 	"license": "OGL-UK-3.0",
-	"author": "Frazer Smith <frazer.smith@ydh.nhs.uk>",
+	"author": "Frazer Smith <frazer.smith@somersetft.nhs.uk>",
 	"funding": "https://www.lovemusgrove.org.uk/donate/",
 	"engines": {
 		"node": ">=14.0.0"
