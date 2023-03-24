@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.0.2](https://github.com/TauntonandSomersetNHSTrust/sft-logos/compare/v1.0.1...v1.0.2) (2023-03-24)
+
+
+### Continuous integration
+
+* **dependabot:** change commit message prefix for gh actions to `ci` ([#7](https://github.com/TauntonandSomersetNHSTrust/sft-logos/issues/7)) ([370e430](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/370e4302e28f92d24179d0081ba494353a34d1f5))
+* **deps:** bump peter-evans/create-pull-request from 4.2.3 to 4.2.4 ([#9](https://github.com/TauntonandSomersetNHSTrust/sft-logos/issues/9)) ([1792f13](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/1792f133069b4d9f4f13d674f601ef75de44c8e1))
+
+
+### Documentation
+
+* **contributing:** add link to conventional config ([#8](https://github.com/TauntonandSomersetNHSTrust/sft-logos/issues/8)) ([c3125a3](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/c3125a3655c6e79ec527f66508dffb6c850759cf))
+
+
+### Miscellaneous
+
+* ignore bun lockfile ([#4](https://github.com/TauntonandSomersetNHSTrust/sft-logos/issues/4)) ([fe8c388](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/fe8c38829c7ddd313c8eb24208ac0cc0a499b32d))
+* **package:** add funding url ([42c0c8b](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/42c0c8b24afaa68ff5fe7350fb7634aa018b3a32))
+* update repo paths to new sft org ([2a373e6](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/2a373e68ff01a33cb7ec545eb2a34c1ea916dcbf))
+
 ## [1.0.1](https://github.com/TauntonandSomersetNHSTrust/sft-logos/compare/v1.0.0...v1.0.1) (2023-02-13)
 
 
