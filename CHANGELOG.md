@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/TauntonandSomersetNHSTrust/sft-logos/compare/v1.0.2...v1.1.0) (2023-04-18)
+
+
+### Features
+
+* **images:** add new logos ([#10](https://github.com/TauntonandSomersetNHSTrust/sft-logos/issues/10)) ([b70df94](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/b70df94ef683bfb2c2d370ce2d8d9f5dcf6b6f50))
+
+
+### Continuous integration
+
+* **deps:** bump peter-evans/create-pull-request from 4.2.4 to 5.0.0 ([#12](https://github.com/TauntonandSomersetNHSTrust/sft-logos/issues/12)) ([90fb8ce](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/90fb8ce85279d2d6b1b67c5937ce43f16490bed8))
+
 ## [1.0.2](https://github.com/TauntonandSomersetNHSTrust/sft-logos/compare/v1.0.1...v1.0.2) (2023-03-24)
 
 
