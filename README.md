@@ -1,5 +1,5 @@
 <a href="https://www.somersetft.nhs.uk/">
-	<img alttext="Somerset NHSFT logo" src="https://github.com/TauntonandSomersetNHSTrust/sft-logos/raw/HEAD/images/sft-nhsft-logo-right-aligned-transparent-background.png" width="480" />
+	<img alttext="Somerset NHSFT logo" src="https://github.com/TauntonandSomersetNHSTrust/sft-logos/raw/HEAD/images/sft-nhsft-logo-left-aligned-transparent-background.png" width="480" />
 </a>
 
 # Somerset NHS Foundation Trust - Logos
