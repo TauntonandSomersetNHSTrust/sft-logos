@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.1](https://github.com/TauntonandSomersetNHSTrust/sft-logos/compare/v1.1.0...v1.1.1) (2023-04-18)
+
+
+### Miscellaneous
+
+* compress mask-icon ([b322601](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/b322601aac93a648fa0209c6e75624a2aaaa2627))
+* trim nhsft logos ([cd95a11](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/cd95a11b99a3e69121188e2d8d3bcbde1806516f))
+
+
+### Documentation
+
+* **readme:** use left-aligned logo ([691f221](https://github.com/TauntonandSomersetNHSTrust/sft-logos/commit/691f22159a85d589edc1effcd7fc3a9d866f0171))
+
 ## [1.1.0](https://github.com/TauntonandSomersetNHSTrust/sft-logos/compare/v1.0.2...v1.1.0) (2023-04-18)
 
 
